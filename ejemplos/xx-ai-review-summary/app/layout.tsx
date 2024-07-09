@@ -26,7 +26,7 @@ export default function RootLayout({
               className="text-lg font-semibold"
               href={`/${gameId}`}
             >
-              {gameName}
+              GAME
             </Link>
           ))}
         </nav>
